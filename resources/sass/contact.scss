@@ -1,0 +1,43 @@
+.contatti * {
+    color: white;
+}
+.H1 {
+    border-bottom: 1px solid white;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.contatti h3 {
+    color: var(--second-color);
+}
+.contatti i {
+    color: var(--accent-color);
+    transition: 0.3s;
+}
+.contatti ul {
+    font-family: "Playfair Display", serif;
+}
+.contatti button {
+    height: 50px;
+    width: 300px;
+    border-radius: 10px;
+    background-color: var(--second-color);
+    border: none;
+    transition: 0.3s;
+}
+.contatti button i {
+    color: white;
+    transition: 0.5s;
+}
+.contatti button:hover {
+    background-color: var(--accent-color);
+}
+.contatti button i:hover {
+    transform: rotate(360deg);
+}
+.contatti i:hover {
+    color: var(--second-color);
+}
+.contatti form input, .contatti form textarea {
+    color: black;
+    font-weight: bold;
+}

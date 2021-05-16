@@ -1,0 +1,50 @@
+.navbar {
+    background-color: var(--accent-color);
+    color: white;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    z-index: 5;
+    transition: 1s;
+}
+.navbar-border {
+    border-bottom: 1px solid var(--second-color);
+}
+.navbar a {
+    color: white;
+    transition: 0.5s;
+}
+.navbar .weather-a {
+    color: yellow;
+}
+.navbar a:hover {
+    color: var(--second-color);
+    font-weight: bold;
+}
+.navbar i {
+    transition: 0.3s;
+}
+.navbar i:hover {
+    color: var(--second-color);
+}
+.modified-nav {
+    background-color: transparent;
+    position: fixed;
+    width: 100%;
+    transition: 1s;
+    z-index: 5;
+}
+.a-modified {
+    color: var(--accent-color) !important;
+}
+.i-modified {
+    color: var(--accent-color) !important;
+}
+.logo-nav1 {
+    width: 200px;
+}
+.logo-nav2 {
+    width: 100px;
+}
+.button-collapse span {
+    color: white;
+}

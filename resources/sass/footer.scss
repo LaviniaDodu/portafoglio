@@ -1,0 +1,28 @@
+footer h3 {
+    color: white;
+    border-bottom: 1px solid var(--second-color);
+    padding-bottom: 10px;
+}
+footer address, footer li {
+    font-size: 18px;
+}
+footer a {
+    color: white;
+    transition: 0.3s;
+}
+footer a:hover {
+    color: var(--second-color);
+}
+footer hr {
+    color: var(--second-color);
+}
+footer i {
+    color: var(--second-color);
+    transition: 0.3s;
+}
+footer i:hover {
+    transform: scale(1.1, 1.1);
+}
+footer * {
+    word-break: break-all;
+}

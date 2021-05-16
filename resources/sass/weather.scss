@@ -1,0 +1,55 @@
+.weather {
+    background-image: url('/media/weather.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.weather h1, .weather p, .weather h6 {
+    color: white !important;
+}
+.response-weather {
+    box-shadow: 2px 2px 10px white;
+}
+.weather h4 {
+    border-bottom: 1px solid white;
+}
+.weather h1 i{
+    color: yellow;
+}
+.btn-weather {
+    height: 30px;
+    width: 100px;
+    border-radius: 20px;
+    border: none;
+    background-color: yellow;
+    color: blue;
+    font-weight: bold;
+    transition: 0.3s;
+}
+.btn-weather i  {
+    color: blue;
+    transition: 0.3s;
+}
+.btn-weather:hover {
+    background-color: blue;
+    color: yellow;
+}
+.btn-weather:hover i {
+    color: yellow;
+}
+@media screen and(max-width: 1024px) and(min-width: 1024px) {
+    .response-content-weather {
+        margin-bottom: 450px;
+    }
+}
+@media screen and(max-width: 768px) and(min-width: 768px) {
+    .response-content-weather {
+        margin-bottom: 50px;
+    }
+}
+.text-yellow {
+    color: yellow;
+}
+.text-blue {
+    color: blue;
+}
