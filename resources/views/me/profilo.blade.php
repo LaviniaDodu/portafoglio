@@ -39,31 +39,6 @@
                     </a>
                 </div>
             </div>        
-            {{-- <div class="col-12 bg-accent col-md-8 banner mb-5 text-center mx-auto shadow-lg">
-                <h1>{{ __('ui.conosciamoci')}}</h1>
-                
-                <div class="row mx-auto justify-content-space-between categorie-pagina">
-                    <div class="col-2">
-                        <a class="text-decoration-none mx-3 px-3 py-1" href="#descrizione">
-                        <span>{{ __('ui.descrizione')}}</span>
-                    </a>
-                </div>
-                    <div class="col-6">
-
-                        <a class="text-decoration-none mx-3 px-4 py-1" href="#esperienza">
-                            <span>{{ __('ui.exp-form')}}</span>
-                        </a>
-                    </div>
-                <div class="col-2">
-                    <a class="text-decoration-none mx-3 px-4 py-1" href="#competenze">
-                        <span>{{ __('ui.competenze')}}</span>
-                    </a>
-                </div>
-                </div>
-                <br>
-                
-            </div> --}}
-        
         </div>
     </div>
     <div  id="descrizione" class="container my-5">

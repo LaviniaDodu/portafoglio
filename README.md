@@ -1,15 +1,3 @@
-1. Admin
-2. Categorie 
-3. Progetti 
-4. Immagini 
-5. Tags 
-
-
-Invio mail 
-
-Admin 1 - N Progetti 
-Progetto 1 - N Immagini 
-Progetto 1 - N Tags 
-Categoria 1 - N Progetti 
-
-
+Benvenuto, sono Dodu Lavinia e questo e il mio portafoglio digitale.
+Qui troverai qualche nota su di me, le mie esperienze, la mia formazione, i miei progetti che ho fatto fin'ora, una pagina di contatto e una applicazione carina fatta con Javascript. 
+Buona visione !!! 

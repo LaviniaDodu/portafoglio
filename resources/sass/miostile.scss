@@ -378,28 +378,6 @@ footer li {
   .logo {
     margin-left: 0 !important;
   }
-
-// .navbar {
-//     // color: white !important; 
-//     background-color: transparent !important; 
-//     // transition: 0.3s; 
-// }
-
-// .modified-nav {
-    //     position: fixed;
-    //     color: yellow !important;
-    //     width: 100%;
-    //     background-color: white;
-    //     z-index: 2;
-    // } 
-    
-    // .nav a {
-    //     transition: 0.3s; 
-    // }
-    
-    // .nav a:hover {
-    //     font-weight: bold; 
-    // } 
     
     .bar {
         display: block; 
@@ -664,112 +642,7 @@ footer li {
         top: 0;
         transform: translate(0, -100%);
       }
-    // .animated-title {
-    //     color: white;
-    //     font-family: "Playfair Display", serif;
-    //     height: 90vmin;
-    //     left: 50%;
-    //     position: absolute;
-    //     top: 50%;
-    //     transform: translate(-50%, -50%);
-    //     width: 40%;
-    // }
-    // .animated-title > div {
-    //     height: 50%;
-    //     overflow: hidden;
-    //     position: absolute;
-    //     width: 100%;
-    // }
-    // .animated-title > div div {
-    //     font-size: 50px;
-    //     padding: 2vmin 0;
-    //     position: absolute;
-    // }
-    // .animated-title > div div span {
-    //     display: block;
-    // }
-    // .animated-title > div.text-top {
-    //     border-bottom: 0.5vmin solid var(--accent-color);
-    //     top: 0;
-    // }
-    // .animated-title > div.text-top div {
-    //     animation: showTopText 1s;
-    //     animation-delay: 0.5s;
-    //     animation-fill-mode: forwards;
-    //     bottom: 0;
-    //     transform: translate(0, 100%);
-    // }
-    // .animated-title > div.text-top div span:first-child {
-    //     color: white;
-    // }
-    // .animated-title > div.text-bottom {
-    //     bottom: 0;
-    //     color: var(--main-color);
-    //     font-size: 40px;
-    // }
-    // .animated-title > div.text-bottom div {
-    //     animation: showBottomText 0.5s;
-    //     animation-delay: 1.75s;
-    //     animation-fill-mode: forwards;
-    //     top: 0;
-    //     transform: translate(0, -100%);
-    // }
-    // @media screen and(max-width: 567px) {
-    //     .animated-title > div div {
-    //         font-size: 20px;
-    //     }
-    //     .animated-title {
-    //         left: 45%;
-    //     }
-    // }
-    // @media screen and(max-width: 992px) and(min-width: 567px) {
-    //     .animated-title {
-    //         align-items: center;
-    //         height: 300px;
-    //         margin: 70px 20px;
-    //     }
-    // }
     
-    // Navbar links hover 
-    
-    // .navbar .navbar-nav .nav-link:hover {
-    //     color: var(--main-color);
-    //   }
-    //   @media only screen and (min-width: 960px) {
-    //     .navbar .navbar-nav .nav-link {
-    //       padding: 1em 0.7em;
-    //     }
-    //     .navbar {
-    //       padding: 0;
-    //     }
-    //     .navbar .navbar-brand {
-    //       padding: 0 0.7em;
-    //     }
-    //   }
-    //   .navbar .navbar-nav .nav-link {
-    //     color: var(--accent-color);
-    //     font-weight: bold;
-    //     position: relative;
-    //   }
-    //   .navbar .navbar-nav .nav-link::after {
-    //     position: absolute;
-    //     bottom: 0;
-    //     border-radius: 50%;
-    //     left: 0;
-    //     right: 0;
-    //     margin: auto;
-    //     // background-color: var(--main-color);
-    //     color: transparent;
-    //     width: 0%;
-    //     content: '';
-    //     height: 2px;
-    //     transition: all 0.5s;
-    //   }
-    //   .navbar .navbar-nav .nav-link:hover::after {
-    //     width: 100%;
-    //   }
-
-
       // Arrow scroll up 
 
       #btnScrollToTop {
@@ -802,18 +675,7 @@ footer li {
     display: flex;
     justify-content: space-between !important;
  }
-//  @media screen and(max-width: 768px) {
-//      .content {
-//         
-//      }
-//  }
 
-
-
-
- 
-   
- 
  .content {
     // max-width: 1024px;
     width: 100%;
@@ -936,18 +798,7 @@ footer li {
     opacity: 1;
     transition: all 0.3s ease;
  }
-
-//  .descrizione {
-//    border-left: 3px solid white;
-//    border-bottom: 3px solid white;
-//    border-radius: 30px;
-//  }
-//  .descrizione1 {
-//   border-right: 3px solid white;
-//   border-bottom: 3px solid white;
-//   border-radius: 30px;
-// }
-
+ 
 @media screen and(max-width: 992px) {
   video {
     height: 200px;
